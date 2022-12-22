@@ -1,5 +1,6 @@
 {
     "name": "microbit_tello_receive_mizuki",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
